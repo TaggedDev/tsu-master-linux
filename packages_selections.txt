@@ -1,0 +1,5 @@
+jq						install
+libjq1:amd64					install
+libjs-jquery					install
+libsqlite3-0:amd64				install
+sqlite3						install
